@@ -65,3 +65,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanDev-Maker&theme=radical&layout=donut&custom_title=Tecnologias&" 
 />
 
+---
